@@ -10,7 +10,7 @@
   "author": "Jorik Tangelder",
   "license": "MIT",
   "dependencies": {
-    "consolidate": "~0.10.0",
+    "consolidate": "https://github.com/monterail/consolidate.js/tarball/support-slm",
     "loader-utils": "~0.2.1"
   }
 }
